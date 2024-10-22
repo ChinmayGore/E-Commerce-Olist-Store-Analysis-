@@ -1,3 +1,5 @@
+Power BI Dashboard Link : https://drive.google.com/file/d/1gOh2duXxfCRAlx7zBGl67CdMh8amXekR/view?usp=drive_link
+
 # E-Commerce-Olist-Store-Analysis-
 This project analyzes data from Olist, a Brazilian e-commerce marketplace, to uncover key performance metrics and trends that enhance customer satisfaction and business growth. By examining various aspects of the marketplace, the analysis provides actionable insights for sellers and stakeholders.
 
