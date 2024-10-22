@@ -44,9 +44,9 @@ INDICATORS
                    average for Olist Store.  
 
 **Customer Satisfaction & Delivery Times**: Over 76% of orders on the Olist store received a review score of 4 or above, demonstrating strong sales performance. However, orders that took longer to deliver 
-                                            received lower review scores, compared to those with faster delivery times, showing the impact of delivery speed on customer satisfaction
+                                            received lower review scores, compared to those with faster delivery times, showing the impact of delivery speed on customer satisfaction.
 
-** "Cama_mesa_banho" (Bed, Bath, and Table) was the most popular product category in terms of the number of orders placed    **         
+** "Cama_mesa_banho" (Bed, Bath, and Table) was the most popular product category in terms of the number of orders placed .   **         
 
 
 
@@ -59,14 +59,14 @@ INDICATORS
 **Promotional Schemes for Weekend Sales**: To improve weekend sales, the Olist store should introduce promotional offers, especially targeting credit card payments, as they are the most popular payment method.
 
 
-**Targeting Sao Paulo for High-Value Sales**:  Since a significant portion of orders come from Sao Paulo, but customers there spend less on high-value products, the Olist store should focus on enhanced marketing strategies and improving delivery services for high-value products in the city
+**Targeting Sao Paulo for High-Value Sales**:  Since a significant portion of orders come from Sao Paulo, but customers there spend less on high-value products, the Olist store should focus on enhanced marketing strategies and improving delivery services for high-value products in the city.
 
 
 
 **Enhancing Logistics for Faster Delivery** : The Olist store should focus on optimizing delivery methods and reducing freight costs by improving logistics. This will help lower delivery expenses, result in better customer reviews, and enhance customer satisfaction, ultimately driving more orders and attracting new customers.
 
 
-**Utilizing Customer Reviews for Insights** : Regularly monitoring and analyzing customer reviews will provide valuable insights into product quality and highlight areas for improvement. Using dashboards to track and identify patterns in reviews will enable a data driven approach to enhancing the customer experience
+**Utilizing Customer Reviews for Insights** : Regularly monitoring and analyzing customer reviews will provide valuable insights into product quality and highlight areas for improvement. Using dashboards to track and identify patterns in reviews will enable a data driven approach to enhancing the customer experience.
 
 
 
@@ -107,8 +107,7 @@ promotions from competitors.
 Sao Paolo retained over 45% of customer density across Olist customers
 but has a very low retention rate. Olist must prioritize states like Sao
 Paolo and Rio de Janeiro by offering sales discounts, free shipping, and
-returns
-
+returns.
 
 
 
